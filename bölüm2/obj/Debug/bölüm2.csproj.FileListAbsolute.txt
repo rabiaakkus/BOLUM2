@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bölüm2\bölüm2\bin\Debug\bölüm2.exe.config
+C:\Users\User\source\repos\bölüm2\bölüm2\bin\Debug\bölüm2.exe
+C:\Users\User\source\repos\bölüm2\bölüm2\bin\Debug\bölüm2.pdb
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.Form1.resources
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.Properties.Resources.resources
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.exe
+C:\Users\User\source\repos\bölüm2\bölüm2\obj\Debug\bölüm2.pdb
